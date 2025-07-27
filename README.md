@@ -114,6 +114,5 @@ Early career work focusing on PHP and WordPress systems.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelhammied&show_icons=true&theme=gruvbox" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelhammied&theme=gruvbox" height="180"/>
 </p>
